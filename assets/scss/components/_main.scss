@@ -9,7 +9,7 @@ main{
         grid-template-rows: 50rem 15rem;
     }
     @include desktopLarge{
-        grid-template-rows: 1fr 20rem;
+        grid-template-rows: 1fr 15rem;
     }
 
 }

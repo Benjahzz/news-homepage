@@ -206,7 +206,7 @@ main {
 }
 @media (min-width: 1280px) {
   main {
-    grid-template-rows: 1fr 20rem;
+    grid-template-rows: 1fr 15rem;
   }
 }
 
