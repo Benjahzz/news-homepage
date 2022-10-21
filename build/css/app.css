@@ -241,7 +241,7 @@ main {
 .main-content .text-container {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 4rem;
   margin-top: 2rem;
   flex: 1;
 }
