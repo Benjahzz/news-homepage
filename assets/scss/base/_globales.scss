@@ -1,0 +1,29 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  font-size: 1.6rem;
+  line-height: 1.8;
+  margin: 0;
+  background-color: $colorBlanco;
+}
+.container{
+    width: 90%;
+    max-width: 160rem;
+    margin: 5rem auto;
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
+@include mobile {
+  .body-active {
+    overflow: hidden;
+  }
+}

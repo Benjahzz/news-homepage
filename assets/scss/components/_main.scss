@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    margin-top: 6rem;
+    @include desktop{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: 50rem 15rem;
+    }
+    @include desktopLarge{
+        grid-template-rows: 1fr 20rem;
+    }
+
+}

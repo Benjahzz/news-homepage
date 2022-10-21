@@ -1,0 +1,15 @@
+$colorPrimario : hsl(35, 77%, 62%);
+$colorPrimarioRojo : hsl(5, 85%, 63%);
+
+$colorBlanco: hsl(36, 100%, 99%);
+$colorGris: hsl(233, 8%, 79%);
+$colorGrisOscuro: hsl(236, 13%, 42%);
+$colorGrisOscuro2: hsl(240, 100%, 5%);
+$fuentePrincipal: 'Inter', sans-serif;
+@font-face{
+    font-family: 'Inter';
+    src: url('/assets/fonts/Inter-VariableFont_slnt\,wght.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
