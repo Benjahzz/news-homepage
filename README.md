@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Benjahzz/interactive-card/)
-- Live Site URL: (https://benjahzz.github.io/interactive-card/)
+- Solution URL: (https://github.com/Benjahzz/news-homepage)
+- Live Site URL: (https://benjahzz.github.io/news-homepage/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - SCSS
-- [VueJS](https://vuejs.org/) - JS library
+- Javascript
 
 
 ## Author
